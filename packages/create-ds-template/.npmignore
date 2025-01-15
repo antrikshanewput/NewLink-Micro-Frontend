@@ -1,0 +1,10 @@
+/node_modules
+
+.env
+.eslintrc.cjs
+.DS_Store
+
+tsconfig.json
+tsconfig.node.json
+tsup.config.ts
+vite.config.ts

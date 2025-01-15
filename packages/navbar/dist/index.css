@@ -1,0 +1,9 @@
+/* src/components/Drawer/Drawer.css */
+.drawer-header img {
+  height: 40px;
+}
+
+/* src/components/TopBar/TopBar.css */
+.navbar-header img {
+  height: 40px;
+}
